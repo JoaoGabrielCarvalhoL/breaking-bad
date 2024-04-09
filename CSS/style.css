@@ -1,0 +1,12 @@
+h3 {
+    background-color: gray;
+    color: black;
+    font-size: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    padding-bottom: 500px;
+}
